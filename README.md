@@ -155,8 +155,6 @@ config.js
 .DS_Store
 ```
 
-Remove `.kangentic/mcp-config.json` from Git history and rotate its token before making an existing repository public. Local MCP tokens, Cloudflare credentials, and Mapbox secret tokens must never be included in the repository.
-
 ## External services and data
 
 The application self-hosts its runtime libraries, fonts, and several geographic assets. It still relies on Mapbox for the streets style, vector tiles, sprites, glyphs, place labels, and geocoding. Data refreshes also access U.S. Census, NBER, and `us-atlas` sources.
