@@ -1,0 +1,15 @@
+<svg width="250" height="200" viewBox="0 0 250 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask id="final-icon-mask">
+      <rect width="200" height="130" fill="white" />
+      <polygon points="25,130 50,130 175,0 150,0" fill="black" />
+    </mask>
+  </defs>
+
+  <g transform="translate(25, 35)" mask="url(#final-icon-mask)">
+    <rect x="0" y="0" width="200" height="22" rx="4" ry="4" fill="#111110" />
+    <rect x="0" y="36" width="200" height="22" rx="4" ry="4" fill="#111110" />
+    <rect x="0" y="72" width="200" height="22" rx="4" ry="4" fill="#111110" />
+    <rect x="0" y="108" width="200" height="22" rx="4" ry="4" fill="#111110" />
+  </g>
+</svg>
