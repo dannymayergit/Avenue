@@ -1,6 +1,6 @@
 # Avenue
 
-Avenue is an interactive U.S. real-estate market explorer by Magna Domos LLC. It provides map-based drilldowns from regions and states to market areas, counties, cities, towns, neighborhoods, and property opportunities.
+Avenue is an interactive U.S. real-estate market explorer. It provides map-based drilldowns from regions and states to market areas, counties, cities, towns, neighborhoods, and property opportunities.
 
 The application is a static browser experience built with JavaScript, Mapbox GL JS, TopoJSON, Turf, and locally generated Census/geographic datasets.
 
