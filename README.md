@@ -151,7 +151,6 @@ Do not commit credentials or local tool configuration. At minimum, keep these pa
 .dev.vars*
 .env*
 config.js
-.kangentic/
 .DS_Store
 ```
 
